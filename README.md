@@ -52,9 +52,3 @@ Me interesa el desarrollo backend y la construcción de sistemas bien estructura
 📍 Costa Rica · Disponibilidad para trasladarme al Gran Área Metropolitana
 
 ---
-
-<div align="center">
-
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&hide_border=true&theme=default&hide=issues)
-
-</div>
