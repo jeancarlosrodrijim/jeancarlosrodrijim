@@ -30,7 +30,7 @@ Me interesa el desarrollo backend y la construcción de sistemas bien estructura
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| **[Sistema de Gestión de Activos y Soporte Técnico](https://github.com/jeancarlosrodrijim/gestiondesoftware)** | Control de equipos e incidencias con autenticación y permisos por rol | C# · .NET · SQL |
+| **[Sistema de Gestión de Activos y Soporte Técnico](https://github.com/jeancarlosrodrijim/Gestion-de-Software)** | Control de equipos e incidencias con autenticación y permisos por rol | C# · .NET · SQL |
 | **[Sistema de Reservación de Vuelos](https://github.com/TU-USUARIO/REPO)** | Gestión de vuelos y reservas con validación de reglas de negocio | C# · .NET · SQL |
 | **[Simulador de Minería Blockchain](https://github.com/TU-USUARIO/REPO)** | Minado con SHA-256, MemPool sobre listas enlazadas y prueba de trabajo | Java |
 
