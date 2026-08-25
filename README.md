@@ -1,4 +1,4 @@
-# Hola, soy Jean Carlos Rodríguez Jiménez 👋
+# Hola, soy Jeancarlos Rodríguez Jiménez 
 
 **Desarrollador de software junior · C# / .NET**
 
