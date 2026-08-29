@@ -24,17 +24,6 @@ Me interesa el desarrollo backend y la construcción de sistemas bien estructura
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
----
-
-### 📌 Proyectos destacados
-
-| Proyecto | Descripción | Stack |
-|---|---|---|
-| **[Sistema de Gestión de Activos y Soporte Técnico](https://github.com/jeancarlosrodrijim/Gestion-de-Software)** | Control de equipos e incidencias con autenticación y permisos por rol | C# · .NET · SQL |
-| **[Sistema de Reservación de Vuelos](https://github.com/TU-USUARIO/REPO)** | Gestión de vuelos y reservas con validación de reglas de negocio | C# · .NET · SQL |
-| **[Simulador de Minería Blockchain](https://github.com/TU-USUARIO/REPO)** | Minado con SHA-256, MemPool sobre listas enlazadas y prueba de trabajo | Java |
-
----
 
 ### 🌱 En qué estoy ahora
 
